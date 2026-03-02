@@ -70,7 +70,7 @@ nav {
   color: var(--accent); letter-spacing: 4px;
   display: flex; align-items: center; gap: 10px;
 }
-.nav-logo span { color: var(--accent2); }
+.nav-logo span { color: var(--accent2); margin-left: -4px; }
 .logo-icon {
   width: 34px; height: 34px; border: 2px solid var(--accent);
   display: flex; align-items: center; justify-content: center;
