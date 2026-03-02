@@ -29,12 +29,8 @@ export default function Hero({ scrollTo }) {
             <div className="stat-label">Engineers</div>
           </div>
           <div className="stat">
-            <div className="stat-num">2+</div>
+            <div className="stat-num">1</div>
             <div className="stat-label">Projects</div>
-          </div>
-          <div className="stat">
-            <div className="stat-num">ROS2</div>
-            <div className="stat-label">Framework</div>
           </div>
           <div className="stat">
             <div className="stat-num">IoT</div>
