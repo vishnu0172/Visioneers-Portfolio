@@ -5,7 +5,7 @@ export default function Hero({ scrollTo }) {
         <div className="scan-line" />
         <div className="hero-eyebrow">
           <span className="status-dot" />
-          System Online &middot; ROS2 Active &middot; Coimbatore, Tamil Nadu
+          System Online &middot; Coimbatore, Tamil Nadu
         </div>
         <h1 className="hero-title">
           <span className="line1">We Are</span>

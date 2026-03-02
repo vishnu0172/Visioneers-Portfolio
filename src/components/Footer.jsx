@@ -50,7 +50,7 @@ export default function Footer({ scrollTo }) {
           </div>
         </div>
         <div className="footer-bottom">
-          <div className="footer-copy">&copy; 2026 VISIONEERS &middot; PERUNDURAI, TN, INDIA</div>
+          <div className="footer-copy">&copy; 2026 VISIONEERS &middot; COIMBATORE, TN, INDIA</div>
           <div className="footer-built">
             BUILT WITH <FiCpu size={13} /> + <FiCoffee size={13} /> + PROCRASTINATION
           </div>
